@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570466097706.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "828AB37C",
+    "lastKnownWriteTime" : 1570466103,
+    "last_content_update" : 1570469578156,
+    "path" : "~/Desktop/MSO/lab1/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "88,0",
+        "scrollLine" : "59",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
